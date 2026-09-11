@@ -16,7 +16,7 @@
 html{scroll-behavior:smooth;}
 body{
   margin:0;
-  background:var(--marble);
+  background-image:url{'assets/tile1.png'};
   color:var(--ink);
   font-family:var(--sans);
   line-height:1.55;
